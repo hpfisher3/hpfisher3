@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harrison Fisher, PhD student in Biomedical Engineering at Boston University
-- 👀 I’m interested in Neuroscience, statistics, and machine learning
+- 👀 I’m interested in Neuroimaging, Statistics, and Machine Learning
 
 
 <!---
