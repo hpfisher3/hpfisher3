@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Harrison Fisher, PhD student in Biomedical Engineering at Boston University
-- 👀 I’m interested in Neuroimaging, Statistics, and Machine Learning
+- 👋 Hi, I’m Harrison Fisher, PhD student in Biomedical Engineering at Boston University, visiting student at MIT EECS
+- Member of the LewisNeuro Lab at MIT! 
+- 👀 I’m interested in Neuroimaging, Physiology, Statistics, and Machine Learning
 
 
 <!---
